@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Owner/IdeaProjects/HW12/src/test">
+        <classes>
+            <class name="testPages.ActionsPageTest"></class>
+            <class name="testPages.AjaxPageTest"></class>
+            <class name="testPages.HomePage"></class>
+            <class name="testPages.FormPageTest"></class>
+            <class name="testPages.WidgetsPageTest"></class>
+            <class name="testPages.ControlPageTest"></class>
+            <class name="testPages.SwitchToPageTest"></class>
+            <class name="testPages.SelectPageTest"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,25 @@
+ //TC:4 --> do on selenium project by using POM-------(Page1)
+    //Go to http://www.uitestpractice.com/
+    //interact with drag and drop, iframe, double click
+
+    //click on home-------(Page2)
+    //delete one user from the table
+
+    //go to the next link-------(Page2)
+
+    //click on the ajax link and wait for the text-------(Page3)
+    //verify that the text is displayed
+
+    //go to Form-------(Page4)
+    //and fill out everything
+
+    //go to widgets-------(Page5)
+    //upload any file and verify it is uploaded
+
+    //go to actions and perform all the necessary actions-------(Page6)
+
+    //go to SwitchTo-------(Page7)
+    //work with alerts and frames
+
+    //go to select-------(Page8)
+    //perform actions on all dropdowns
